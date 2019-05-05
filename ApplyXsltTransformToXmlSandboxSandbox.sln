@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplyXsltTransformToXml", "ApplyXsltTransformToXml\ApplyXsltTransformToXml.csproj", "{54809BCC-5B8E-45F7-98F9-16867AA6106C}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplyXsltTransformToXmlSandboxSandbox", "ApplyXsltTransformToXml\ApplyXsltTransformToXmlSandbox.csproj", "{54809BCC-5B8E-45F7-98F9-16867AA6106C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +15,11 @@ Global
 		{54809BCC-5B8E-45F7-98F9-16867AA6106C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54809BCC-5B8E-45F7-98F9-16867AA6106C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54809BCC-5B8E-45F7-98F9-16867AA6106C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7761D13-C720-4BC5-B711-1C8651A6ABB4}
 	EndGlobalSection
 EndGlobal

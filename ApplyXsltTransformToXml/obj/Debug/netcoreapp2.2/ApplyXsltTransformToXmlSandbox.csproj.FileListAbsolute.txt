@@ -1,0 +1,11 @@
+C:\Users\jdefa\Dropbox\John\DevStuff\ApplyXsltTransformToXml\ApplyXsltTransformToXml\bin\Debug\netcoreapp2.2\ApplyXsltTransformToXmlSandbox.deps.json
+C:\Users\jdefa\Dropbox\John\DevStuff\ApplyXsltTransformToXml\ApplyXsltTransformToXml\bin\Debug\netcoreapp2.2\ApplyXsltTransformToXmlSandbox.runtimeconfig.json
+C:\Users\jdefa\Dropbox\John\DevStuff\ApplyXsltTransformToXml\ApplyXsltTransformToXml\bin\Debug\netcoreapp2.2\ApplyXsltTransformToXmlSandbox.runtimeconfig.dev.json
+C:\Users\jdefa\Dropbox\John\DevStuff\ApplyXsltTransformToXml\ApplyXsltTransformToXml\bin\Debug\netcoreapp2.2\ApplyXsltTransformToXmlSandbox.dll
+C:\Users\jdefa\Dropbox\John\DevStuff\ApplyXsltTransformToXml\ApplyXsltTransformToXml\bin\Debug\netcoreapp2.2\ApplyXsltTransformToXmlSandbox.pdb
+C:\Users\jdefa\Dropbox\John\DevStuff\ApplyXsltTransformToXml\ApplyXsltTransformToXml\obj\Debug\netcoreapp2.2\ApplyXsltTransformToXmlSandbox.csprojAssemblyReference.cache
+C:\Users\jdefa\Dropbox\John\DevStuff\ApplyXsltTransformToXml\ApplyXsltTransformToXml\obj\Debug\netcoreapp2.2\ApplyXsltTransformToXmlSandbox.csproj.CoreCompileInputs.cache
+C:\Users\jdefa\Dropbox\John\DevStuff\ApplyXsltTransformToXml\ApplyXsltTransformToXml\obj\Debug\netcoreapp2.2\ApplyXsltTransformToXmlSandbox.AssemblyInfoInputs.cache
+C:\Users\jdefa\Dropbox\John\DevStuff\ApplyXsltTransformToXml\ApplyXsltTransformToXml\obj\Debug\netcoreapp2.2\ApplyXsltTransformToXmlSandbox.AssemblyInfo.cs
+C:\Users\jdefa\Dropbox\John\DevStuff\ApplyXsltTransformToXml\ApplyXsltTransformToXml\obj\Debug\netcoreapp2.2\ApplyXsltTransformToXmlSandbox.dll
+C:\Users\jdefa\Dropbox\John\DevStuff\ApplyXsltTransformToXml\ApplyXsltTransformToXml\obj\Debug\netcoreapp2.2\ApplyXsltTransformToXmlSandbox.pdb
