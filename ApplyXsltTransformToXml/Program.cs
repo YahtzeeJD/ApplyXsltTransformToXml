@@ -36,7 +36,7 @@ namespace ApplyXsltTransformToXml
                     var xws = new XmlWriterSettings();
                     xws.ConformanceLevel = ConformanceLevel.Fragment;
                     XmlWriter writer = XmlWriter.Create(resultString, xws);
-                    
+
                     // Load the XSLT stylesheet into the transformer
                     var xsltTransform = new XslCompiledTransform();
                     xsltTransform.Load(transformReader);
